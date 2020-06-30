@@ -32,5 +32,5 @@ le modèle de Verhulst et le modèle de Lotka-Volterra
 Pour compiler:
 python3 Lotka-Volterra.py
 
-![alt text](lotka_volterra.png)
-![alt text](malthusien.png)
+![alt text](rapport/lotka_volterra.png)
+![alt text](rapport/malthusien.png)
