@@ -1,6 +1,6 @@
 # Résolution approchée d’équations différentielles / Modélisation de systèmes dynamiques
 
-                    Projet algorithmique numérique numéro 6
+                        Projet algorithmique numérique
                     
 
 Partie 1: methods.py et graphe_erreur.py
