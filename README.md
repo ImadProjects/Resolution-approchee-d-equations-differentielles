@@ -1,4 +1,4 @@
-# Resolution-approchee-d-equations-differentielles-Modelisation-de-systemes-dynamiques
+# Résolution approchée d’équations différentielles / Modélisation de systèmes dynamiques
 
                     Projet algorithmique numérique numéro 6
                     
