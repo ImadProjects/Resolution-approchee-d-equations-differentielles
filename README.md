@@ -1,0 +1,1 @@
+# Resolution-approchee-d-equations-differentielles-Modelisation-de-systemes-dynamiques
